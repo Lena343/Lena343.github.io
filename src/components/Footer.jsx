@@ -25,15 +25,13 @@ export default function Footer() {
             <div className="footer-col">
             <h4>follow us</h4>
             <div className="social-links">
-                <a href="#">
+
                 <i className="fa fa-facebook-f" />
-                </a>
-                <a href="#">
+
                 <i className="fa fa-twitter" />
-                </a>
-                <a href="#">
+
                 <i className="fa fa-instagram" />
-                </a>
+
             </div>
             </div>
         </div>
